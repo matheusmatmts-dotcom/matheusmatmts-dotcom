@@ -26,8 +26,8 @@
   </a>
 
 
-  <a href="mailto:matheusmat.mts@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&to=matheusmat.mts@gmail.com">
     <img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="45"/>
-  </a>
+</a>
 
 </div>
