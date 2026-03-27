@@ -9,9 +9,9 @@
 <div>
 
 <a href="https://github.com/matheusmatmts-dotcom">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusmatmts-dotcom&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusmatmts-dotcom&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </a>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmatmts-dotcom&langs_count=16&theme=outrun"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmatmts-dotcom&langs_count=16&theme=outrun"/>
 
 <img alt="Matheus-Java" height="40" width="40"
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
